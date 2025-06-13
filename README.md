@@ -22,7 +22,7 @@ The project aims to restore SAV habitat by addressing boat scars, which included
 
 </div>
 
-_Examples of treated scars_
+_Examples of scars treated through sediment tube application_
 
 ## Restoration Objectives
 
