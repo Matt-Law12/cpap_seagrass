@@ -48,7 +48,7 @@ o	Seagrass has been planted by AquaTech Eco Consultants as of Summer of 2023. Pl
 
 ![image](https://github.com/user-attachments/assets/8f3eb73a-16ad-41f9-a13f-cfc85d17a072) ![image](https://github.com/user-attachments/assets/7a0a31c7-bc12-435b-a75e-55d2c0559bd8)
 
-<div/>
+</div>
 
 ## Data Collection and Analysis
 
