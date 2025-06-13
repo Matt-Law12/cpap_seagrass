@@ -44,6 +44,12 @@ o	Not Achieved: Damaged buoys were replaced in 2017, but the system was removed 
 •	Performance Criteria: N/A<br/>
 o	Seagrass has been planted by AquaTech Eco Consultants as of Summer of 2023. Planting units were installed in 2023 to combat seagrass loss. At 30-day inspection, more than 50% of units had survived. <br/>
 
+<div align="center">
+
+![image](https://github.com/user-attachments/assets/8f3eb73a-16ad-41f9-a13f-cfc85d17a072) ![image](https://github.com/user-attachments/assets/7a0a31c7-bc12-435b-a75e-55d2c0559bd8)
+
+<div/>
+
 ## Data Collection and Analysis
 
 All 379 scars identified by Atkins for restoration are monitored. A handheld GPS is used to navigate to scar coordinates, and maps indicating scar shape, position, and length aid with identifying scars. When the scar is located, a transect is laid out the entire length of the scar using a measuring tape. Total measured scar length is recorded. Starting at 0 meters (from either the South or East end, depending on the orientation of the scar), scar width is measured and a 0.0625m² (0.25m x 0.25m) quadrat is placed in the center of the scar. Within the quadrat, seagrass and macroalgae species are noted, and species and total coverage are determined on a scale of 0.1-5 using Braun-Blanquet (B&B) methodology. Sediment type, height, and epiphytic algae density are also noted. This process is repeated every ten meters along the length of the scar.
