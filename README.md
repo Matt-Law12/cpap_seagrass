@@ -1,7 +1,8 @@
 <div align="center">
 
 # Florida Seagrass Recovery Project
-![image](https://github.com/user-attachments/assets/f259e78e-c715-4062-b522-0f5645687b45)
+![image](https://github.com/user-attachments/assets/10577973-2343-446e-a15b-956cfb386d36)
+
 
 </div>
 
