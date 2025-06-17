@@ -6,16 +6,20 @@
 </div>
 
 ## Project Overview
+The Florida Seagrass Recovery Project was created to help restore seagrass habitats in the Florida Panhandle that were affected by the Deepwater Horizon oil spill and related response activities. This project focuses on addressing boat damage to seagrass habitats by restoring scars located primarily in turtle grass (Thalassia testudinum) habitats. Turtle grass is a common sprecies of seagrass in the Pandhandle that is slow to naturally rejuvinate naturally when injured and, in severe cases, may never completely recover.
 
-As a result of the Deepwater Horizon oil spill and related response activities, submerged aquatic vegetation (SAV) habitat in Florida’s Panhandle was adversely impacted. The Florida Seagrass Recovery Project addresses boat damage to SAV in the Florida Panhandle by restoring scars located primarily in turtle grass (Thalassia testudinum) habitats. Specifically, this included:
+When boats travel through shallow waters, their propellers can leave behind long, narrow scars in the seagrass by cutting through the roots and stems. Along with destroying the seagrass, these propellers also leave behind deep divots in the substrate, which prevents seagrass outside of the scarred area from spreading and filling in     If left untreated these scars may never repopulate and can even lead to further seagrass loss in seagrass meadows located adjacent to the scars.
 
-•	Placement of 43,954 sediment tubes in 379 propeller scars in St. Joseph Bay AP in Gulf County. <br />
-•	Installation of non-regulatory Shallow Seagrass Area buoy system in St. Joseph Bay AP (removed in June 2020 due to damage by boaters and Hurricane Michael)<br />
-•	Updates to existing signage and buoys where applicable, installation of educational signage, and provision of brochures about best practices for protecting seagrass habitats at popular boat ramps in St. Joseph Bay, Alligator Harbor, and St. Andrews Bay.
+To support recovery, the project focused on identifying and restoring these damaged areas in St. Joseph Bay Aquatic Preserve, as well as promoting education and boater awareness in three aquatic preserves in the Panhandle: St. Joseph Bay, Alligator Harbor, and St. Andrews Bay.
 
-Scarring occurs when boat propellers in shallow water cut up roots, stems, and leaves of seagrasses, producing long, narrow furrows devoid of vegetation. Since turtle grass, a common species of seagrass in the Panhandle, is particularly slow to rejuvenate naturally when injured, propeller damage can take many years to rejuvenate. In severely scarred areas, turtle grass may never completely recover.  
+## Restoration Work
+As part of the restoration efforts, this project focused on both restoring scarred areas, as well as increasing boater awareness, including:
 
-The project aims to restore SAV habitat by addressing boat scars, which included surveying and mapping scars in three aquatic preserves in the Florida Panhandle. Additionally, sediment tubes were manufactured, filled with local fine grain sediment, and deployed in approximately two acres of seagrass propeller scars in St. Joseph Bay AP. Sediment tubes were installed in scars in eleven propeller scar restoration areas (PSRs).
+• Sediment Tube Installation: 43,954 sediment tubes were placed in 379 boat propeller scars across St. Joseph Bay Aquatic Preserve in Gulf County. These tubes were filled with locally sourced, fine-grain sediment to promote seagrass regrowth over roughly two acres of impacted habitat. <br />
+• Shallow Seagrass Area Buoy System: A non-regulatory buoy system was installed in St. Joseph Bay to mark shallow seagrass areas and encourage boaters to steer clear. This system was later removed in June 2020 due to damage. <br />
+• Educational Outreach: Updated signage, new educational signs, and brochures about protecting seagrass were provided at key boat ramps in St. Joseph Bay, Alligator Harbor, and St. Andrews Bay to inform boaters about responsible practices. <br />
+
+By combining hands-on restoration with public education, the project is helping to protect and rejuvenate these valuable underwater habitats for future generations.
 
 <div align="center">
   
@@ -25,28 +29,6 @@ The project aims to restore SAV habitat by addressing boat scars, which included
 
 _Examples of scars treated through sediment tube application_
 
-## Restoration Objectives
-
-The objectives of this restoration project are as follows:
-
-1.	Length, number, and/or area of scars is equal to or greater than 2 acres.<br/>
-o	Achieved: 2.018 acres of scars were treated within 379 scars in St. Joseph Bay AP.<br/>
-2.	Restored scars achieve the designed percent cover of seagrass.<br/>
-•	Performance Criteria: At Year 2, scars should naturally revegetate to a minimum score of 3 (25 to 50% cover) on the Braun-Blanquet scale.<br/>
-o	Not achieved: At Year 2, approximately 21.57% of restored scars have revegetated to an average minimum score of 3, and 57.14% have revegetated to a minimum score of 1 on the Braun-Blanquet Scale.<br/>
-•	Performance Criteria: At Year 3, treated scars should revegetate to a minimum score of 4 (50 to 75% coverage) on the Braun-Blanquet scale.<br/>
-o	TBD: Year 3 monitoring currently in progress.<br/>
-3.	Installation of seagrass buoy system <br/>
-•	Performance Criteria: All installed buoys remain intact 1 year after installation.<br/>
-o	Not Achieved: Damaged buoys were replaced in 2017, but the system was removed in summer 2020 primarily due to ongoing boater damage of the buoys<br/>
-4.	Survival of seagrass planting units or transplants, if they are used. <br/>
-o	Seagrass has been planted by AquaTech Eco Consultants as of Summer of 2023. Planting units were installed in 2023 to combat seagrass loss. At 30-day inspection, more than 50% of units had survived. <br/>
-
-<div align="center">
-
-![image](https://github.com/user-attachments/assets/ca3366a3-c4e7-48e5-9c53-a861d6b6f501)
-
-</div>
 
 ## Data Collection and Analysis
 
