@@ -30,7 +30,7 @@ These restoration and educational outreach initiatives aimed to both repair exis
 
 ## Why It Matters 
 
-Seagrass provides numourous environmental and ecological services, such as:
+Seagrass meadows provide numourous environmental and ecological services, such as:
 
 • Habitat for marine species <br />
 • Food source for grazing species such as sea turtles and manatees <br />
