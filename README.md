@@ -20,7 +20,7 @@ To support recovery, this project focused on identifying and restoring damaged a
 
 </div>
 
-As part of the restoration efforts, this project focused on both restoring scarred areas, as well as increasing boater awareness, including:
+As part of the restoration efforts, this project focused on both restoring scarred areas, as well as increasing boater awareness, through:
 
 • Sediment Tube Installation: 43,954 sediment tubes were placed in 379 boat propeller scars across St. Joseph Bay Aquatic Preserve in Gulf County. These biodegradable tubes were filled with locally sourced, fine-grain sediment to promote seagrass regrowth over roughly two acres of impacted habitat. <br />
 • Shallow Seagrass Area Buoy System: A non-regulatory buoy system was installed in St. Joseph Bay to mark shallow seagrass areas and encourage boaters to steer clear. This system was later removed in June 2020 due to damage. <br />
