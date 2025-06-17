@@ -32,7 +32,7 @@ These restoration and educational outreach initiatives aimed to both repair exis
 
 Seagrass meadows provide numourous environmental and ecological services, such as:
 
-• Habitat for marine species <br />
+• Habitat for marine species such as scallops, fish, and stingrays <br />
 • Food source for grazing species such as sea turtles and manatees <br />
 • Long-term carbon sequestration through photosyntheic processes <br />
 
