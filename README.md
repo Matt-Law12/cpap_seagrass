@@ -29,7 +29,13 @@ These restoration and educational outreach initiatives aimed to both repair exis
 
 ## Why It Matters 
 
-Seagrass is dope.
+Seagrass provides numourous environmental and ecological services, such as:
+
+• Habitat for marine species <br />
+• Food source for grazing species such as sea turtles and manatees <br />
+• Long-term carbon sequestration through photosyntheic processes <br />
+
+This project works to preserve these services by repairing damaged seagrass habitats and preventing future loss.
 
 ## Monitoring
 
