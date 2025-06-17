@@ -13,7 +13,7 @@ When boats travel through shallow waters, their propellers can leave behind long
 
 To support recovery, this project focused on identifying and restoring damaged areas in St. Joseph Bay Aquatic Preserve, as well as promoting education and boater awareness in St. Joseph Bay, Alligator Harbor, and St. Andrews Bay.
 
-## Restoration Workx
+## Restoration Work
 <div align="center">
   
 ![image](https://github.com/user-attachments/assets/13c5c77a-d5e5-416f-bbfd-e4c769dee827)
@@ -40,7 +40,7 @@ This project works to preserve these services by repairing damaged seagrass habi
 
 ## Monitoring
 
-All 379 scars identified by Atkins for restoration are monitored. When a scar is located, total measured scar length is recorded to determine how the length of the scar has changed since restoration. Starting at 0 meters (from either the South or East end, depending on the orientation of the scar), scar width is measured and a 0.0625m² (0.25m x 0.25m) quadrat is placed in the center of the scar. Within the quadrat, seagrass and macroalgae species are noted, and species and total coverage are determined on a scale of 0.1-5 using Braun-Blanquet (B&B) methodology. Sediment type, height, and epiphytic algae density are also noted. This process is repeated every ten meters along the length of the scar.
+All 379 scars identified by Atkins for restoration are monitored. When a scar is located, total measured scar length is recorded to determine how the length of the scar has changed since restoration. From there scar width is measured every 10 meters along the scar and a 0.0625m² quadrat is placed in the center of the scar. Within the quadrat, seagrass and macroalgae species are noted, and species and total coverage are determined on a scale of 0.1-5 using Braun-Blanquet (B&B) methodology. Sediment type, height, and epiphytic algae density are also noted.
 
 The collected monitoring data is analyzed by CPAP staff to determine the success of the restoration work and compiled into annual monitoring reports.
 
@@ -50,13 +50,17 @@ Along with the annual monitoring reports that are published by CPAP, an [interac
 
 ## Results
 
-In total, 2.018 acres of scar were treated. This number was calculated using the size of the sediment tube (8” x 36”, or 2ft²) and the total count (43,954) of bags on the top layer (some scars were deep enough to require multiple vertical layers of sediment tubes) in each scar. It was determined that 87,908 ft² of propeller scars have been treated, which converts to 2.018 acres. Slight discrepancies in bag placement may mean the actual area is slightly greater or less than this calculation. 
+### Treated Area
+In total, it is estimated that 2.018 acres of scar were treated. Slight discrepancies in bag placement may mean the actual area is slightly greater or less than this calculation, but this does achieve our goal of treating over 2 acres of scars.
 
-At Year 3, approximately 21.73% of treated propeller scars have achieved a B&B score of at least 3. Although the majority of scars sampled to date have not achieved the desired level of restoration, this is a notable increase from Year 2 (9.41%). As of Year 3, approximately 57.38% of scars have achieved a B&B score of at least 1, which is only slightly higher than the previous year (54.30%). The average B&B score for the entire restoration area was approximately 1.63 in Year 3, which is a statistically significant increase from the Year 2 average of 1.15 (p=1.92x10-8).  
+### Seagrass Coverage
+At Year 3, approximately 21.73% of treated propeller scars have achieved a B&B score of at least 3. Although the majority of scars sampled to date have not achieved the desired level of restoration, this is a notable increase from Year 2's percentage at 9.41%. As of Year 3, approximately 57.38% of scars have achieved a B&B score of at least 1, which is only slightly higher than the previous year's 54.30%. The average B&B score for the entire restoration area was approximately 1.63 in Year 3, which is a significant increase from the Year 2 average of 1.15.
 
+### Shallow Seagrass Buoy System
 The 49 buoys that made up the non-regulatory _Shallow Seagrass Area_ buoy system were removed in summer 2020 due to damage. The Shallow Seagrass Buoy System, comprised of 49 buoys marking shallow seagrass areas in the southern end of St. Joseph Bay was completed in May of 2016. In 2017, nine of the buoys were leaning and/or had been damaged and were replaced. Over the next few years, most of the buoys went  missing or were damaged due to careless boaters and/or severe tropical storm activity. Much of this damage was caused by Hurricane Michael in October 2018. Due to the extent of the damage, the system became a navigational hazard to boaters and was removed in June of 2020. As an alternative to the buoy system, efforts are now focused on increasing boater awareness of seagrasses through outreach, education, and signage. Some of these efforts include updates to existing signage where applicable, installation of new educational signage, and provision of brochures about best practices for protecting seagrass habitats at popular boat ramps in St. Joseph Bay, Alligator Harbor, and St. Andrews Bay.
 
-In Year 2, AquaTech Eco Consultants (ATEC) and EcoSphere Restoration Institute, Inc. (ERI) collaborated with CPAP to install approximately 28,800 Thalassia testudinum planting units (PUs) in St. Joseph Bay to enhance propeller scar restoration efforts, with particular focus on the heavily grazed areas identified in PSR6. ATEC/ERI received a grant to install 100 acres of seagrass around coastal Florida in 2023 and were able to provide planting units for the Seagrass Recovery Project. According to their restoration plan, 4,800 PUs = 1 acre. In addition to the turtle grass planting units, ATEC also installed approximately 4,800 Halodule wrightii (shoal grass) PUs in previously identified areas of concern. In total, approximately seven acres (33,600 PUs) of seagrass were replanted to help increase restoration success. This effort came at no cost to CPAP, and Natural Resource Damage Assessment (NRDA) funds were not used in conjunction with this planting effort.
+### Supplemental Planting
+In Year 2, AquaTech Eco Consultants (ATEC) and EcoSphere Restoration Institute, Inc. (ERI) collaborated with CPAP to install approximately 28,800 Thalassia testudinum planting units (PUs) in St. Joseph Bay to enhance propeller scar restoration efforts, with particular focus on the heavily grazed areas identified in PSR6. In addition to the turtle grass planting units, ATEC also installed approximately 4,800 Halodule wrightii (shoal grass) PUs in previously identified areas of concern. In total, approximately seven acres of seagrass were replanted to help increase restoration success.
 
 ATEC utilized nursery-grown plants to install approximately 33,600 total plants, the equivalent of seven acres within PSR6. Within hours, some urchins were already observed grazing on the newly planted seagrass. Some recognizable signs of turtle grazing were also observed on the PUs; however, grazing by sea turtles is much less widespread and destructive than urchin grazing, as the turtles only feed on the grass blades and leave the roots of the grasses intact for future growth. It was hoped that the supplemental installation of PUs would enhance recovery in areas most heavily impacted and in turn restore ecosystem services that seagrasses provide.
 
