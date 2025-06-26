@@ -2,6 +2,10 @@
 
 # Florida Seagrass Recovery Project
 
+</div>
+
+<div align="center">
+
 <img src="./images/scars1.png" alt="Image1" />
 
 </div>
