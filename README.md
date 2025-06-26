@@ -46,7 +46,7 @@ The collected monitoring data is analyzed by CPAP staff to determine the success
 
 <img src="./images/seagrass-dash.png" alt="Image3" />
 
-Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
+Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
 ## Results
 
@@ -65,3 +65,20 @@ In Year 2, AquaTech Eco Consultants (ATEC) and EcoSphere Restoration Institute, 
 ATEC utilized nursery-grown plants to install approximately 33,600 total plants, the equivalent of seven acres within PSR6. Within hours, some urchins were already observed grazing on the newly planted seagrass. Some recognizable signs of turtle grazing were also observed on the PUs; however, grazing by sea turtles is much less widespread and destructive than urchin grazing, as the turtles only feed on the grass blades and leave the roots of the grasses intact for future growth. It was hoped that the supplemental installation of PUs would enhance recovery in areas most heavily impacted and in turn restore ecosystem services that seagrasses provide.
 
 Unfortunately, most of the planting units did not survive. The PUs were installed in PSR6, a vast, bare and/or sparsely vegetated area. Most of PSR6 has been denuded from urchin grazing, and seagrass recovery has been minimal to none. In addition to herbivorous grazing impacts, the lack of adjacent seagrasses and unstable sediments most likely contributed to these planting units not surviving and seagrasses not recovering. 
+
+## Quick Links
+
+### Central Aquatic Preserves Main Page:
+• [CPAP](https://matt-law12.github.io/cpap/)
+
+### Projects:
+• [Florida Oyster Cultch Placement Restoration Project](https://matt-law12.github.io/CPAP_NRDA_Oyster_Project/) <br />
+• [Cat Point Living Shoreline Restoration Project](https://matt-law12.github.io/cpap_shore/) <br />
+• [CPAP YSI Continual Water Quality Monitoring](https://matt-law12.github.io/cpap_wq/) <br />
+
+### Dashboards:
+• [Florida Oyster Cultch Placement Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Cat Point Living Shoreline Restoration Project](https://app.powerbi.com/view?r=eyJrIjoiZDMzNzc2ZGUtZDM5NC00NzE4LWE3ZTQtZWJkOTIyNjMxZDA5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [Florida Seagrass Recovery Project](https://app.powerbi.com/view?r=eyJrIjoiZjUwZDkwZTctNzdlYi00MzY0LWE2NjQtOTY0NzQ5YWJlNGVjIiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+• [CPAP YSI Continual Water Quality Monitoring](https://app.powerbi.com/view?r=eyJrIjoiZGUzNTIyZGMtNjhjMy00NWVmLWJmMGItMmQ3ZWZjZTkxMjY5IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) <br />
+
