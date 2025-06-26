@@ -2,7 +2,7 @@
 
 # Florida Seagrass Recovery Project
 
-<img src="./images/scars1.jpg" alt="Image1" />
+<img src="./images/scars1.png" alt="Image1" />
 
 </div>
 
@@ -16,7 +16,7 @@ To support recovery, this project focused on identifying and restoring damaged a
 ## Restoration Work
 <div align="center">
   
-<img src="./images/scars-filled.jpg" alt="Image2" />
+<img src="./images/scars-filled.png" alt="Image2" />
 
 </div>
 
@@ -44,7 +44,7 @@ All 379 of our restored scars are monitored. When a scar is located, we first me
 
 The collected monitoring data is analyzed by CPAP staff to determine the success of the restoration work and compiled into annual monitoring reports.
 
-<img src="./images/seagrass-dash" alt="Image3" />
+<img src="./images/seagrass-dash.png" alt="Image3" />
 
 Along with the annual monitoring reports that are published by CPAP, an [interactive PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiODhhZGQxZmYtYjYzYy00MTQ0LWI3M2EtZmE3NzdlODdlOGE3IiwidCI6ImI2MjAxOTYwLTQ1YmEtNGI3OC1iMDgwLWYxYzQzM2ZmNmUzNiIsImMiOjZ9) was created which enables users to explore our monitoring data through dynamic visuals, making the complex data more accessible and engaging— far beyond what static graphs or traditional reports can offer.
 
