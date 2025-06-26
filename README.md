@@ -1,8 +1,4 @@
-<div align="center">
-
-# Florida Seagrass Recovery Project
-
-</div>
+<h1 align="center">Florida Seagrass Recovery Project</h1>
 
 <div align="center">
 
